@@ -71,6 +71,6 @@ public class Main {
         System.out.println("Средняя зарплата сотрудника = " + salaryMean());
         displayNames();
     }
-    }
+}
 
 

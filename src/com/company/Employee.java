@@ -1,6 +1,6 @@
 package com.company;
 
-public class Employee {
+public class Employee  {
 
     public static int idGenerator = 1;
 
